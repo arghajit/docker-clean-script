@@ -6,6 +6,8 @@ A simple shell script to clear all hibernated/slept/down images/containers/netwo
 
 ## Run
 ```
-arghajit@mac$ chmod a+rx docker-clean-script.sh
-arghajit@mac$ ./docker-clean-script.sh
+arghajit@mac$ chmod a+rx docker-cleanup
+arghajit@mac$ ./docker-cleanup
 ```
+
+Add it in your path to use it across any location.
