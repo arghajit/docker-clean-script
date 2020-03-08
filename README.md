@@ -2,7 +2,7 @@
 
 While we work with Docker containers, it sometime occur that our host machine start getting low memory. 
 
-A simple shell script to clear all hibernated/slept/down images/containers/networks to free up the space.
+A tiny shell script to clear all hibernated/slept/down images/containers/networks to free up the space.
 
 ## Run
 ```
